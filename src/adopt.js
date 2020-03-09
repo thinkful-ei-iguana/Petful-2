@@ -85,8 +85,8 @@ export default class Adopt extends React.Component {
       }
     }
     this.events.addEventListener('open', (e) => {
-      console.log('eventsource opened', e);
-      console.log('eventsource opened data', e.data);
+      //console.log('eventsource opened', e);
+      //console.log('eventsource opened data', e.data);
     })
     this.events.onerror = (e) => {
       console.log('eventsource error', e)

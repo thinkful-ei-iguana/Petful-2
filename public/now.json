@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "alias": "pawsibilities-app",
-  "name": "pawsibilities",
+  "alias": "pawsibilities-app-v2",
+  "name": "pawsibilities-v2",
   "routes": [
     {
       "handle": "filesystem"
