@@ -6,7 +6,7 @@ Cat and dog lovers, gather 'round! The newest member of your family can't wait t
 ## Visit Pawsibilities
 [Live app](https://pawsibilities-v2.now.sh/ "Pawsibilities")
 
-[GitHub repository (server)](https://github.com/thinkful-ei-iguana/anugrah-maggie-petful-server "Pawsibilities server repo")
+[GitHub repository (server)](https://github.com/thinkful-ei-iguana/Petful-2-server "Pawsibilities server repo")
 
 ## Technology used
 
